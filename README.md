@@ -1,10 +1,13 @@
 # COVID-19-Atlas
 Re-analyze public COVID-19 single-cell RNA-seq data
-
 ## ToppCell Signature Atlas Overview
 [logo]: https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/virus2.jpg?raw=true "Logo Title Text 2"
 
 More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/index3/COVID-19%20Atlas). The preprint was posted on [bioRxiv](https://www.biorxiv.org/).
+*PBMC: Peripheral Blood Mononuclear Cell;  
+BAL: Bronchoalveolar Lavage; 
+CSF: cerebrospinal fluid
+
 |Project type | Project name | PBMC | BAL | Lung | Upper Airway | Autopsy tissues | CSF | Infected Cell Line |
 |------| ------ | ------ |------| ------| ------| ------| ------| ------| 
 |Individual Atlas| [PBMC Atlas of COVID-19 Patients (Arunachalam et al.)](https://toppcell.cchmc.org/biosystems/go/index3/shred/data%20for%20toppcell/covid19%20Atlas/Covid-19_PBMC_Arunachalam_et%20al._Science/Output%20by%20disease%20group%20by%20Cell%20group%20by%20Cell%20class)| ![logo]
@@ -35,7 +38,3 @@ More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/ind
 ||[Sepsis Atlas](https://toppcell.cchmc.org/biosystems/go/index3/shred/data%20for%20toppcell/immune%20atlas/sepsis/Output%20by%20Disease_pheno%20by%20Lineage%20by%20cell_type-2)||
 ||[Multiple Sclerosis](https://toppcell.cchmc.org/biosystems/go/index3/shred/data%20for%20toppcell/immune%20atlas/multiple%20sclerosis/Output%20by%20disease_v2%20by%20Lineage%20by%20cell_type)|
 ||[Rheumatoid Arthritis and Lupus Nephritis Atlas](https://toppcell.cchmc.org/biosystems/go/index3/shred/data%20for%20toppcell/immune%20atlas/AMP_autoimmuneDisease/Output%20by%20Disease%20by%20Tissue%20by%20Cell%20class)|
-
-*PBMC: Peripheral Blood Mononuclear Cell;  
-BAL: Bronchoalveolar Lavage; 
-CSF: cerebrospinal fluid
