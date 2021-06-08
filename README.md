@@ -40,8 +40,9 @@ More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/ind
 BAL: Bronchoalveolar Lavage; 
 CSF: cerebrospinal fluid
 
-Graphical Abstract: 
+### Graphical Abstract
 ![alt text](https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/figures/roadmap.jpg?raw=true "Logo Title Text 1")
 
-
+### ToppCell Analysis pipeline
+![alt text](https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/figures/Figure1.jpg?raw=true "Log Title Text 1")
 
