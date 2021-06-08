@@ -41,6 +41,6 @@ BAL: Bronchoalveolar Lavage;
 CSF: cerebrospinal fluid
 
 Graphical Abstract:
-![Graphical Abstract](https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/figures/roadmap.pdf)
+![https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/figures/roadmap.pdf]
 
 
