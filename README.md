@@ -41,7 +41,6 @@ More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/ind
 BAL: Bronchoalveolar Lavage; 
 CSF: cerebrospinal fluid
 
-Graphical Abstract:
-![GraphicalAbs]
+Graphical Abstract: ![GraphicalAbs]
 
 
