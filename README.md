@@ -2,7 +2,6 @@
 Re-analyze public COVID-19 single-cell RNA-seq data
 ## ToppCell Signature Atlas Overview
 [logo]: https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/virus2.jpg?raw=true "Logo Title Text 2"
-[GraphicalAbs]: https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/figures/roadmap.pdf "Graphical Abstract"
 
 More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/index3/COVID-19%20Atlas). Check our preprint on bioRxiv: [A Web Portal and Workbench for Biological Dissection of Single Cell COVID-19 Host Responses.] (https://www.biorxiv.org/content/10.1101/2021.06.07.447287v1).
 
@@ -41,6 +40,8 @@ More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/ind
 BAL: Bronchoalveolar Lavage; 
 CSF: cerebrospinal fluid
 
-Graphical Abstract: ![GraphicalAbs]
+Graphical Abstract: 
+![alt text](https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/figures/roadmap.pdf "Logo Title Text 1")
+
 
 
