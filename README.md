@@ -3,7 +3,7 @@ Re-analyze public COVID-19 single-cell RNA-seq data
 ## ToppCell Signature Atlas Overview
 [logo]: https://github.com/KANG-BIOINFO/COVID-19-Atlas/blob/main/virus2.jpg?raw=true "Logo Title Text 2"
 
-More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/index3/COVID-19%20Atlas). The preprint was posted on [bioRxiv](https://www.biorxiv.org/).
+More details can be explored [here](https://toppcell.cchmc.org/biosystems/go/index3/COVID-19%20Atlas). The preprint was posted on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.06.07.447287v1).
 *PBMC: Peripheral Blood Mononuclear Cell;  
 BAL: Bronchoalveolar Lavage; 
 CSF: cerebrospinal fluid
